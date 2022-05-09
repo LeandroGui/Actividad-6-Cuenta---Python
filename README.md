@@ -1,9 +1,9 @@
 # Actividad-6-Cuenta---Python
 
-#Crea una clase llamada Cuenta que tendrá los siguientes atributos: 
-#titular (que es una persona) y cantidad (puede tener decimales). 
-#El titular será obligatorio y la cantidad es opcional. 
-#Construye los siguientes métodos para la clase:
+Crea una clase llamada Cuenta que tendrá los siguientes atributos: 
+titular (que es una persona) y cantidad (puede tener decimales). 
+El titular será obligatorio y la cantidad es opcional. 
+Construye los siguientes métodos para la clase:
 
 # * Un constructor. 
 # * mostrar(): Muestra los datos de la cuenta. 
